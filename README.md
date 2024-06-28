@@ -1,7 +1,5 @@
 # Python Music Player
 
-# Music Player
-
 A simple music player application built using Tkinter for the GUI and Pygame for audio playback.
 
 ## Features
